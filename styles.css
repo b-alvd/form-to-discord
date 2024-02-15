@@ -1,0 +1,11 @@
+.popup {
+    display: none;
+    width: 200px;
+    margin-top: 80.5vh;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
