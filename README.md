@@ -1,10 +1,8 @@
 # form-to-discord
 Envoi d'un formulaire relié à Discord (webhook)
 
-Preview: https://b-alvd.github.io/form-to-discord/
-
-Pour créer un Webhook sur discord:
+Pour créer un Webhook sur discord et l'intégrer:
 1. Allez dans les paramètres du salon ou vous voulez recevoir les images.
 2. Dans l'onglet "Intégrations"
 3. Appuyez sur "Créer un webhook"
-4. Et vous n'avez plus qu'à remplacer celui déjà existant dans le fichier JS.
+4. Et vous n'avez plus qu'à remplacer l'endroit ou il est écrit "LE_TOKEN_CEST_ICI".
