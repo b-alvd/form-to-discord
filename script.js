@@ -4,7 +4,7 @@ document.getElementById('discordForm').addEventListener('submit', function(event
     var nom = document.getElementById('nom').value;
     var message = document.getElementById('message').value;
 
-    var webhookUrl = 'https://discord.com/api/webhooks/1207831431632519178/ZDZCdyXk7WR996pVit99hVpH-1WwC0l7Gxa6f_W_QjTYFWns178Rh2lyYAUdB_6HHjfY';
+    var webhookUrl = 'LE_TOKEN_CEST_ICI';
 
     var requestData = {
         username: 'Test Formulaire',
